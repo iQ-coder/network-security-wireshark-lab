@@ -43,11 +43,11 @@ icmp
 
 **ICMP Echo Request (Type 8):**
 
-![ICMP Echo Request](wireshark-screens/icmp%20request%20message.png)
+![ICMP Echo Request](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/icmp%20request%20message.png)
 
 **ICMP Echo Reply (Type 0):**
 
-![ICMP Echo Reply](wireshark-screens/icm%20reply%20messaege.png)
+![ICMP Echo Reply](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/icm%20reply%20messaege.png)
 
 ### Findings
 
@@ -106,11 +106,11 @@ dns.qry.name == "<domain>"
 
 **DNS Query:**
 
-![DNS Query](wireshark-screens/dns%20query%201.png)
+![DNS Query](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/dns%20query%201.png)
 
 **DNS Response:**
 
-![DNS Response](wireshark-screens/dns%20query%20response.png)
+![DNS Response](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/dns%20query%20response.png)
 
 ### Findings
 
@@ -166,23 +166,23 @@ http
 
 **TCP SYN (connection initiation):**
 
-![TCP SYN](wireshark-screens/tcp%20syn%20packet.png)
+![TCP SYN](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/tcp%20syn%20packet.png)
 
 **TCP SYN+ACK (server response):**
 
-![TCP SYN ACK](wireshark-screens/tcp%20syn%20ack.png)
+![TCP SYN ACK](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/tcp%20syn%20ack.png)
 
 **TCP PSH+ACK (data transfer):**
 
-![TCP PSH ACK](wireshark-screens/tcp%20ack+psh.png)
+![TCP PSH ACK](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/tcp%20ack%2Bpsh.png)
 
 **HTTP GET Request:**
 
-![HTTP Request](wireshark-screens/http%20request.png)
+![HTTP Request](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/http%20request.png)
 
 **HTTP Response (plaintext body):**
 
-![HTTP Plain Text](wireshark-screens/reading%20http%20plain%20text.png)
+![HTTP Plain Text](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/reading%20http%20plain%20text.png)
 
 ### TCP Lifecycle Observed
 
@@ -254,7 +254,7 @@ tls and ip.addr == 93.184.216.34
 
 **HTTPS — Application Data is encrypted (unreadable):**
 
-![HTTPS Encrypted](wireshark-screens/not%20being%20able%20to%20read%20https.png)
+![HTTPS Encrypted](https://github.com/iQ-coder/network-security-wireshark-lab/blob/main/not%20being%20able%20to%20read%20https.png)
 
 ### TLS Handshake Observed
 
